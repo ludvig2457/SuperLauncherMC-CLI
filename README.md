@@ -1,2 +1,2 @@
-# SuperLauncher-CLI
+# SuperLauncherMC CLI
 Launcher for games
